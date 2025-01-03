@@ -13,5 +13,7 @@ JRM is a combination of JVM and libraries.
 
 Java is WORA meaning Write Once Run Anywhere.
 
+The name of the class should match the name of the Java file. 
+
 
 
