@@ -15,5 +15,7 @@ Java is WORA meaning Write Once Run Anywhere.
 
 The name of the class should match the name of the Java file. 
 
+A variable is where you store data.
 
+Java is strongly typed language.
 
